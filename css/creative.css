@@ -302,7 +302,7 @@ header .header-content .header-content-inner p {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #007000;
+  color: #222222;
   background-color: #f2f2f2;
   border-color: #ededed;
 }
@@ -392,7 +392,7 @@ fieldset[disabled] .btn-primary.active {
   text-transform: uppercase;
 }
 .btn-xl {
-  padding:  10px 30px;
+  padding: 15px 30px;
 }
 ::-moz-selection {
   color: white;
